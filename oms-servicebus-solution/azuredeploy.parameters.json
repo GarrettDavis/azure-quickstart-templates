@@ -1,4 +1,4 @@
-﻿{
+{
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
@@ -17,8 +17,8 @@
         "automationRegion": {
             "value": "East US 2"
         },
-        "jobGuid": {
-            "value": "54b5a761-8e3f-405d-9f29-82d75839608d"
-        }
+      "jobGuid": {
+        "value": "875dfa0a-8b7d-4ba7-bf3f-fc75bd3b871a"
+      }
     }
 }
